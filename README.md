@@ -1,7 +1,5 @@
 # Paint- MFC C++
-================================================================================
     MICROSOFT FOUNDATION CLASS LIBRARY : nikaEliranProject Overview
-===============================================================================
 
 The application wizard has created this nikaEliran application for
 you.  This application not only demonstrates the basics of using the Microsoft
